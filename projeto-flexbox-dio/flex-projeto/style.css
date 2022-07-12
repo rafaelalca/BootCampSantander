@@ -27,7 +27,7 @@ div img{
     min-width: 320px;
 }
 header{
-    background-color: #122A57;
+    background-color: #277af7;
     height: 100px;
     display: flex;
     align-items: center;
@@ -61,16 +61,16 @@ header .menu{
 }
 
 .texto-apresentacao h1{
-    color: #122A57;
+    color: #277af7;
     font-size: 48px;
     margin-bottom: 10px;
 }
 
 .btn{
-    background-color: #122A57;
+    background-color: #277af7;
     color: #fff;
     text-align: center;
-    border-radius: 30px;
+    border-radius: 30px ;
     width: 220px;
     display: block;
     text-decoration: none;
@@ -89,7 +89,7 @@ header .menu{
 
 #quem-somos h2{
     font-size: 32px;
-    color: #122A57;
+    color: #277af7;
     display: flex;
     margin-bottom: 20px;
 }
@@ -99,7 +99,7 @@ header .menu{
     height: 50px;
     width: 5px;
     margin-right: 5px;
-    background-color: #122A57;
+    background-color: #277af7;
     position: relative;
 }
 
@@ -111,7 +111,7 @@ header .menu{
     min-width: 420px;
 }
 .container-externo{
-    background-color: #122A57;
+    background-color: #277af7;
     width: 100%;
 }
 
@@ -145,7 +145,7 @@ header .menu{
     margin-top: 20px;
     line-height: 50px;
     padding: 5px 10px;
-    color: #122A57;
+    color: #277af7;
     font-size: 12px;
     text-decoration: none;
     font-weight: 700;
@@ -181,7 +181,7 @@ header .menu{
 }
 .item-plano{
     flex: 1;
-    border: 5px solid #122A57;
+    border: 5px solid #277af7;
     margin-right: 20px;
     padding: 10px;
     max-width: 240px;
@@ -202,7 +202,7 @@ header .menu{
 
 .item-plano h3::after{
     content: "";
-    background-color: #122A57;
+    background-color: #277af7;
     width: 100%;
     height: 3px;
     margin-top: 20px;
@@ -226,12 +226,12 @@ header .menu{
     content: "";
     width: 10px;
     height: 10px;
-    background-color: #122A57;
+    background-color: #277af7;
     margin-right: 5px;
 }
 
 footer{
-    background-color: #122A57;
+    background-color: #277af7;
     height: 70px;
     display: flex;
     align-items: center;
